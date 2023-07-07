@@ -1,0 +1,5 @@
+
+# don't commit local env vars
+.env
+# don't commit
+PyWhatKit_DB.txt
